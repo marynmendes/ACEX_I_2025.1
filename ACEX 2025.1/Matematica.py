@@ -68,4 +68,4 @@ class Matematica:
    
    @staticmethod
    def coenficienteVariacao(lista):
-      return Matematica.desvioPadrao(lista)/Matematica.media(lista)
+      return (Matematica.desvioPadrao(lista)/Matematica.media(lista))*100
