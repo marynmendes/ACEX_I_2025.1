@@ -1,5 +1,5 @@
-class Matematica: 
-   # Já está pronta
+class Matematica:
+   # Classe demostração de funcionamento da numpy
    
    @staticmethod
    def media(lista):
